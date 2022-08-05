@@ -1,4 +1,8 @@
 todo:
-1. Include databases
-2. Include alembic
-3. Include services
+1. Include alembic
+2. Include services
+
+pg_creds
+user: inst_user
+pass: 123456
+db: inst_db
